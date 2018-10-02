@@ -1,6 +1,7 @@
 ---
 title: "Personal Activity analyzer"
 output: rmarkdown::github_document
+        
 ---
 
 ```{r setup, include=FALSE}
